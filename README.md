@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HamaChalmers
 - 👀 I’m interested in football and computers
-- 🌱 I’m currently studying a bachalor's degree in Information Technology
+- 🌱 I’ve completed my studies for my bachalor's degree in Information Technology
 - 💞️ I’m looking to collaborate on anything coding related
 - 📫 How to reach me using gmail hamadinger@gmail.com
 - 😄 Check out my Portfolio https://hamachalmers.github.io/Portfolio/
